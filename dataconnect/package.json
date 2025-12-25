@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "generate-config": "node generate-config.js"
+  },
+  "dependencies": {
+    "firebase": "^10.12.4-dataconnect-preview.d986d4bf2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
