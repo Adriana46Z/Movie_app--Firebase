@@ -97,14 +97,14 @@ Language breakdown: TypeScript (66%), JavaScript (30%), CSS (2.4%), HTML (1.4%)
 
 ```
 Movie_app--Firebase/
-├── app/                  # Main application source code
-│   ├── src/              # TypeScript/JavaScript source files
+├── app/                  
+│   ├── src/              
 │   └── ...
-├── dataconnect/          # Firebase Data Connect configuration
-├── firebase.json         # Firebase project configuration
+├── dataconnect/          
+├── firebase.json         
 ├── .gitignore
 ├── CONTRIBUTING.md
-├── LICENSE               # Apache-2.0
+├── LICENSE               
 └── README.md
 ```
 
@@ -131,15 +131,3 @@ Movie_app--Firebase/
 ### 5. User Profile
 
 <img width="1915" height="940" alt="image" src="https://github.com/user-attachments/assets/7d289b3a-b651-451c-8aa2-88c89bc2d4a6" />
-
----
-
-## Contributing
-
-Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to get started.
-
----
-
-## License
-
-This project is licensed under the [Apache-2.0 License](LICENSE).
